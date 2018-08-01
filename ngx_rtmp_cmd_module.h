@@ -16,7 +16,7 @@
 
 #define NGX_RTMP_MAX_NAME           256
 #define NGX_RTMP_MAX_URL            768
-#define NGX_RTMP_MAX_ARGS           NGX_RTMP_MAX_NAME
+#define NGX_RTMP_MAX_ARGS           512
 
 
 /* Basic RTMP call support */
